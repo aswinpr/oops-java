@@ -20,7 +20,7 @@ class oddeven{
     }
 public static void main(String args[]){
 try{
-    oddeven o=new oddeven();
+    oddevenx o=new oddevenx();
     Scanner sc=new Scanner(Sysytem.in);
     System.out.println("enter number");
     int a=sc.nextInt();
